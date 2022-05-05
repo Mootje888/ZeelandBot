@@ -1,0 +1,21 @@
+{
+  "name": "disc_bot_zeeland",
+  "version": "1.0.0",
+  "description": "Dit is een bot voor de discord server Zeeland The Netherlands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Bot",
+    "Staff",
+    "Zeeland",
+    "Server"
+  ],
+  "author": "Ali",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
