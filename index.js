@@ -55,4 +55,4 @@ try{
 
 });
 
-client.login(botConfig.token);
+client.login(process.env.token);
